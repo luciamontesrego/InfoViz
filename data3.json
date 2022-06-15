@@ -1,0 +1,322 @@
+{"nodes":[
+  {
+    "source": "persona 176",
+    "group": 1
+  },
+  {
+    "source": "persona 202",
+    "group": 1
+  },
+  {
+    "source": "persona 378",
+    "group": 1
+  },
+  {
+    "source": "persona 165",
+    "group": 1
+  },
+  {
+    "source": "persona 573",
+    "group": 1
+  },
+  {
+    "source": "persona 283",
+    "group": 1
+  },
+  {
+    "source": "persona 113",
+    "group": 1
+  },
+  {
+    "source": "persona 503",
+    "group": 1
+  },
+  {
+    "source": "persona 563",
+    "group": 1
+  },
+  {
+    "source": "persona 289",
+    "group": 1
+  },
+  {
+    "source": "persona 373",
+    "group": 1
+  },
+  {
+    "source": "persona 393",
+    "group": 1
+  },
+  {
+    "source": "persona 915",
+    "group": 1
+  },
+  {
+    "source": "persona 355",
+    "group": 1
+  },
+  {
+    "source": "persona 232",
+    "group": 1
+  },
+  {
+    "source": "persona 81",
+    "group": 1
+  },
+  {
+    "source": "persona 488",
+    "group": 1
+  },
+  {
+    "source": "persona 277",
+    "group": 1
+  },
+  {
+    "source": "persona 497",
+    "group": 1
+  },
+  {
+    "source": "persona 266",
+    "group": 1
+  },
+  {
+    "source": "persona 273",
+    "group": 1
+  },
+  {
+    "source": "persona 362",
+    "group": 1
+  },
+  {
+    "source": "persona 390",
+    "group": 1
+  },
+  {
+    "source": "persona 358",
+    "group": 1
+  },
+  {
+    "source": "persona 218",
+    "group": 1
+  },
+  {
+    "source": "persona 244",
+    "group": 1
+  },
+  {
+    "source": "persona 427",
+    "group": 1
+  },
+  {
+    "source": "persona 403",
+    "group": 1
+  },
+  {
+    "source": "persona 624",
+    "group": 1
+  },
+  {
+    "source": "persona 991",
+    "group": 1
+  },
+  {
+    "source": "persona 1009",
+    "group": 1
+  },
+  {
+    "source": "persona 436",
+    "group": 1
+  },
+  {
+    "source": "persona 640",
+    "group": 1
+  },
+  {
+    "source": "persona 945",
+    "group": 1
+  },
+  {
+    "source": "persona 720",
+    "group": 1
+  },
+  {
+    "source": "persona 432",
+    "group": 1
+  },
+  {
+    "source": "persona 559",
+    "group": 1
+  },
+  {
+    "source": "persona 730",
+    "group": 1
+  }
+],
+"links": 
+[
+  {
+    "source": "persona 176",
+    "target": "persona 218",
+    "value": 900
+  },
+  {
+    "source": "persona 202",
+    "target": "persona 244",
+    "value": 900
+  },
+  {
+    "source": "persona 378",
+    "target": "persona 427",
+    "value": 898
+  },
+  {
+    "source": "persona 165",
+    "target": "persona 403",
+    "value": 894
+  },
+  {
+    "source": "persona 573",
+    "target": "persona 624",
+    "value": 876
+  },
+  {
+    "source": "persona 283",
+    "target": "persona 991",
+    "value": 860
+  },
+  {
+    "source": "persona 113",
+    "target": "persona 165",
+    "value": 844
+  },
+  {
+    "source": "persona 503",
+    "target": "persona 1009",
+    "value": 842
+  },
+  {
+    "source": "persona 563",
+    "target": "persona 624",
+    "value": 842
+  },
+  {
+    "source": "persona 283",
+    "target": "persona 289",
+    "value": 838
+  },
+  {
+    "source": "persona 289",
+    "target": "persona 991",
+    "value": 832
+  },
+  {
+    "source": "persona 373",
+    "target": "persona 436",
+    "value": 826
+  },
+  {
+    "source": "persona 393",
+    "target": "persona 640",
+    "value": 824
+  },
+  {
+    "source": "persona 915",
+    "target": "persona 945",
+    "value": 818
+  },
+  {
+    "source": "persona 355",
+    "target": "persona 436",
+    "value": 816
+  },
+  {
+    "source": "persona 355",
+    "target": "persona 373",
+    "value": 816
+  },
+  {
+    "source": "persona 202",
+    "target": "persona 232",
+    "value": 814
+  },
+  {
+    "source": "persona 232",
+    "target": "persona 244",
+    "value": 812
+  },
+  {
+    "source": "persona 81",
+    "target": "persona 165",
+    "value": 810
+  },
+  {
+    "source": "persona 488",
+    "target": "persona 503",
+    "value": 810
+  },
+  {
+    "source": "persona 81",
+    "target": "persona 218",
+    "value": 810
+  },
+  {
+    "source": "persona 277",
+    "target": "persona 573",
+    "value": 796
+  },
+  {
+    "source": "persona 497",
+    "target": "persona 503",
+    "value": 792
+  },
+  {
+    "source": "persona 266",
+    "target": "persona 720",
+    "value": 790
+  },
+  {
+    "source": "persona 373",
+    "target": "persona 393",
+    "value": 782
+  },
+  {
+    "source": "persona 277",
+    "target": "persona 624",
+    "value": 782
+  },
+  {
+    "source": "persona 273",
+    "target": "persona 432",
+    "value": 782
+  },
+  {
+    "source": "persona 362",
+    "target": "persona 640",
+    "value": 764
+  },
+  {
+    "source": "persona 390",
+    "target": "persona 503",
+    "value": 762
+  },
+  {
+    "source": "persona 563",
+    "target": "persona 573",
+    "value": 760
+  },
+  {
+    "source": "persona 497",
+    "target": "persona 559",
+    "value": 758
+  },
+  {
+    "source": "persona 289",
+    "target": "persona 378",
+    "value": 754
+  },
+  {
+    "source": "persona 358",
+    "target": "persona 730",
+    "value": 752
+  }
+]}
